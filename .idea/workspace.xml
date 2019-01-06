@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef7c79de-7635-48dc-a479-a323b4fb6f8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/Lab.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="11" />
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -143,7 +142,7 @@
     <entry file="file://$PROJECT_DIR$/Lab.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="41" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>
